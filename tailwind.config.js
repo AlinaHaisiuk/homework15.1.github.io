@@ -1,0 +1,1 @@
+<script>tailwind.config = {}</script>;
